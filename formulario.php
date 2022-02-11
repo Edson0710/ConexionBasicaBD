@@ -21,7 +21,7 @@
         <div class="fondo mt-5 pt-3 pb-3">
             <h1 class="ml-5">Agregar Jugador</h1>
             <div class="px-5 mt-3">
-                <form>
+                <form action="store.php" method="post">
                     <div class="form-group">
                         <label for="nombre">Nombre</label>
                         <input type="text" class="form-control" id="nombre" aria-describedby="emailHelp"
