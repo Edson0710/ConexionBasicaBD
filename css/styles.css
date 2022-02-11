@@ -1,0 +1,21 @@
+body{
+    background: url(../img/background.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+}
+
+table{
+    background-color: white !important;
+}
+
+h1, h3{
+    color: white;
+}
+
+.fondo{
+    background-color: rgba(0,0,0,0.5);
+}
+
+label{
+    color: white;
+    font-weight: bold;
+}
